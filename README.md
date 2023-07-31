@@ -1,2 +1,2 @@
 # PlayStore-App-Data-Analysis-Using-EDA
-Capstone project for Almabetter]
+Capstone project by Almabetter]
